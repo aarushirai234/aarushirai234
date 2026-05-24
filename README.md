@@ -12,4 +12,4 @@ I'm building **AI Product OS** — an open-source toolkit of AI workflows that p
 - 📝 writing product and leaderhship specs
 - 📊turning messy signals into product decisions
 
-🎯 The goal is to automate and improve the messy parts of my day to day job
+The goal is to automate and improve the messy parts of my day to day job
