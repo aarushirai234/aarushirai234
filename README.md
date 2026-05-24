@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aarushi 👋
 
-<!--
-**aarushirai234/aarushirai234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring what's possible with AI by building useful products, workflows, and experiments.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building **AI Product OS** — an open-source toolkit of AI workflows that product teams can use to build better products.
+
+The goal is to automate and improve the messy parts of my day to day job: 
+
+- understanding users
+- tracking competitors
+- synthesizing feedback
+- writing product specs
+- reviewing launch risks
+- turning messy signals into product decisions
+
